@@ -18,6 +18,6 @@
     - jika backend maka silahkan kerjakan dengan bahasa pemograman backend seperti PHP, node.js, Golang.
     - jika mobile maka silahkan kerjakan dengan bahasa pemograman mobile seperti react-native, flutter. Di utamakan menggunakan tampilan
 3. deadline 7 hari dari pesan test dikirim
-4. kumpulkan dengan nama repository github test-dev-frontend or test-dev-backend or test-dev-mobile dan invite akun ibnuhamdani11, aisipan
+4. kumpulkan dengan nama repository github test-dev-frontend or test-dev-backend or test-dev-mobile dan invite akun ibnuhamdani11, aisipan, dan farhantock, satori97
 
 ##### Good Luck #####
