@@ -13,7 +13,7 @@
 
 ##### Ketentuan pengerjaan #####
 1. kerjakan dengan sesuai pemahaman masing-masing
-2. kerjakan sesuai dengan bidang yang akan apply
+2. kerjakan sesuai dengan bidang yang akan di apply
     - jika frontend maka silahkan kerjakan dengan bahasa pemograman frontend seperti react.js, javascript. Di utamakan menggunakan tampilan
     - jika backend maka silahkan kerjakan dengan bahasa pemograman backend seperti PHP, node.js, Golang.
     - jika mobile maka silahkan kerjakan dengan bahasa pemograman mobile seperti react-native, flutter. Di utamakan menggunakan tampilan
