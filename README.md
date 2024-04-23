@@ -1,5 +1,5 @@
 ### Test Development Integrasia Utama ###
-#### Selesaikan case case dibawah ini ####
+#### Selesaikan case dibawah ini ####
     1. Buat data array dengan merepresentasikan sebegai berikut:
         Esa mempunyai mainan dengan macam-macam bentuk dan warna seperti berikut:
          - kotak = 4 merah; 9 hijau; 10 hitam
